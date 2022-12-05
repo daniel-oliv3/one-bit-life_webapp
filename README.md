@@ -98,6 +98,7 @@ npx expo init myapp
 ```
 npx expo start
 ```
+
 - Criar a pasta `src` na raiz do projeto
 - Criar a pasta `Pages` dentro da pasta `src`
 - Criar a pasta `Routes` dentro da pasta `src`
@@ -111,8 +112,14 @@ npm install @react-navigation/native
 ```
 npm install @react-navigation/native-stack
 ```
+```
+npm install @react-navigation/stack
+```
 
-
+- Criar a pasta `assets` dentro da pasta `src`
+- Baixar as imagens do projeto
+  - Imagens: https://drive.google.com/drive/folders/1dfgdiDeqSWsm6OXQKEpeNRHqCvSGGkRl
+- Colar as imagens na pasta `assets`
 
 
 
