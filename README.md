@@ -120,7 +120,8 @@ npm install @react-navigation/stack
 - Baixar as imagens do projeto
   - Imagens: https://drive.google.com/drive/folders/1dfgdiDeqSWsm6OXQKEpeNRHqCvSGGkRl
 - Colar as imagens na pasta `assets`
-
+- Criar a pasta `Start` dentro da pasta `Pages`
+- Criar o arquivo `index.jsx` dentro da pasta `Start`
 
 
 
