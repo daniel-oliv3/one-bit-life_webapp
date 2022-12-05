@@ -4,7 +4,7 @@
 
 ### Pré-Requisitos.
 
-React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
+React.js, React Native, Node.js, JavaScript, TypeScript.
 
 **Node.js**
 - Site: https://nodejs.org/en/
@@ -12,17 +12,11 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 **React.js**
 - Site: https://pt-br.reactjs.org/
 
-**Next.js**
-- Site: https://nextjs.org/
-
 **TypeScript**
 - Site: https://www.typescriptlang.org/
 
 **React Native**
 - Site: https://reactnative.dev/
-
-**Tailwind CSS**
-- Site: https://tailwindcss.com/
 
 
 ### Ferramentas do Programador.
@@ -30,9 +24,7 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 **Visual Studio Code**
 - Site: https://code.visualstudio.com/download
 - Extenção
-    - `Prisma`
-    - `PostCSS Language Support`
-    - `Tailwind CSS IntelliSense`
+    - `Material icon Theme`
 
 **Expo**
 - Site: https://expo.dev/
@@ -44,19 +36,60 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 - Site: https://developer.android.com/studio
 
 
+##
+### Projeto
+##
+
+**Iniciando o projeto Estrutura Principal**
+- Primeiros passos com React Native
+- Criando um projeto com Expo
+- Inserindo navegações entre páginas
+- Extilização no React Native
+- Utilizando Android Studio e Expo Go (Pré-visualização do APP)
+
+**Inserindo as funcionalidades Criando hábito**
+- Usando SQLite com Expo
+- Fazendo renderização condicional
+- Criando as operações básicas (Create, Read, Update, Delete) dos hábitos
+
+**Finalizando o App Animando o Bit**
+- Modificação condicional das animações
+- Manipulação de notificação
+- Manipulação de tempo
+- Criação do splash e ícone do aplicativo
 
 
+##
+### Criação do projeto
+##
 
+- Instalar o Expo
+- Expo-Cli
+```
+npm install -g expo-cli
+```
 
+- Expo Version
+```
+expo --version
+```
 
+- Git Version
+```
+git --version
+```
 
+- Instalar o Android Studio para fazer a emulação do dispositivo mobile
+- Configurar ...
+- `More Action/Virtual device menager/Create virtual device/`
 
-
-
-
-
-
-
+**Criando o projeto com Expo**
+- Projeto Expo
+```
+npx expo init myapp
+```
+- Project - Bare Workflow
+    - Minimal
 
 
 
