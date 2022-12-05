@@ -80,7 +80,10 @@ git --version
 ```
 
 - Instalar o Android Studio para fazer a emulação do dispositivo mobile
-- Configurar ...
+- Configurar Emulador
+- Android Studio `Create device`
+  - Select Hardware: `Phones/Pixel 4`(Play Store)
+  - Next
 - `More Action/Virtual device menager/Create virtual device/`
 
 **Criando o projeto com Expo**
@@ -91,14 +94,23 @@ npx expo init myapp
 - Project - Bare Workflow
     - Minimal
 
+- Rodar o projeto expo
+```
+npx expo start
+```
+- Criar a pasta `src` na raiz do projeto
+- Criar a pasta `Pages` dentro da pasta `src`
+- Criar a pasta `Routes` dentro da pasta `src`
 
+- React-Navigation
+```
+npm install @react-navigation/native
+```
 
-
-
-
-
-
-
+- React-Navigation-Stack
+```
+npm install @react-navigation/native-stack
+```
 
 
 
