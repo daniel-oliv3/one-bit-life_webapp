@@ -123,8 +123,11 @@ npm install @react-navigation/stack
 - Criar a pasta `Start` dentro da pasta `Pages`
 - Criar o arquivo `index.jsx` dentro da pasta `Start`
 
+**Rotas**
 
-
+- Criar as rotas
+- Criar o arquivo `index.jsx` dentro da pasta `Routes`
+- Criar o arquivo `AllPages.jsx` dentro da pasta `src`
 
 
 
