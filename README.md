@@ -127,7 +127,9 @@ npm install @react-navigation/stack
 
 - Criar as rotas
 - Criar o arquivo `index.jsx` dentro da pasta `Routes`
-- Criar o arquivo `AllPages.jsx` dentro da pasta `src`
+- Criar o arquivo `AllPages.jsx` dentro da pasta `Routes`
+
+
 
 
 
