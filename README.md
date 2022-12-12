@@ -129,12 +129,14 @@ npm install @react-navigation/stack
 - Criar o arquivo `index.jsx` dentro da pasta `Routes`
 - Criar o arquivo `AllPages.jsx` dentro da pasta `Routes`
 
+**Components**
 
-
-
-
-
-
+- Criar a pasta `Components` dentro da pasta `src`
+- Criar a pasta `Common` dentro da pasta `Components`
+- Criar a pasta `DefaultButton` dentro da pasta `Common`
+- Criar a pasta `LifeStatus` dentro da pasta `Common`
+- Criar o arquivo `index.jsx` dentro da pasta `DefaultButton`
+- Criar o arquivo `index.jsx` dentro da pasta `LifeStatus`
 
 
 
