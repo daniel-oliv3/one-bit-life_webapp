@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
         marginLeft: 5,
         position: 'absolute',
     },
-    finacasAnimacao: {
+    financasAnimacao: {
         width: 100,
         marginTop: 50,
         marginLeft: 95,
