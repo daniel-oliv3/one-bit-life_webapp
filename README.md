@@ -139,6 +139,40 @@ npm install @react-navigation/stack
 - Criar o arquivo `index.jsx` dentro da pasta `LifeStatus`
 
 
+**Biblioteca**
+- Lottie-React-Native (Animação)
+```
+npm i --save lottie-react-native
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
