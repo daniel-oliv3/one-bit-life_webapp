@@ -12,7 +12,7 @@ export default function Start(){
                         style={styles.logo}
                     />
                     <Text style={styles.description}>
-                        Vamos transformar sua vida {"/n"} em jogo, buscando sempre {"/n"}
+                        Vamos transformar sua vida {"\n"} em jogo, buscando sempre {"\n"}
                         o melhor nível.
                     </Text>
                 </View>

@@ -145,6 +145,15 @@ npm install @react-navigation/stack
 npm i --save lottie-react-native
 ```
 
+- Animação do robô
+```txt
+Status
+  100 - Máximo
+  50 - Médio
+  25 - Baixo
+  00 - Curto (Acabou o Game)
+  No robô, nós temos primeiros Felicidade e depois saúde xx-xx
+```
 
 
 
