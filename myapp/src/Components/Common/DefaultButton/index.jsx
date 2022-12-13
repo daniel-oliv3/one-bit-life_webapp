@@ -16,7 +16,7 @@ export default function DefaultButton({
             activeOpacity={0.7}
             onPress={handlePress}
         >
-            <Text> {buttonText} </Text>
+        <Text style={styles.buttonText}> {buttonText} </Text>
         </TouchableOpacity>
     );
 }
@@ -24,9 +24,15 @@ export default function DefaultButton({
 const styles = StyleSheet.create({
     button: {
         alignItems: "center",
-
+        justifyContent: "center",
+        borderWidth: 1,
+        borderColor: "#FFFFFF",
+        borderRadius: 10,
+        marginBottom: 20,
     },
     buttonText: {
-        color: "#fff",
-    }
+        color: "#FFFFFF",
+        fontWeight: "bold",
+        fontSize: 20,
+    },
 });
