@@ -12,9 +12,6 @@ React.js, React Native, Node.js, JavaScript, TypeScript.
 **React.js**
 - Site: https://pt-br.reactjs.org/
 
-**TypeScript**
-- Site: https://www.typescriptlang.org/
-
 **React Native**
 - Site: https://reactnative.dev/
 
@@ -124,13 +121,11 @@ npm install @react-navigation/stack
 - Criar o arquivo `index.jsx` dentro da pasta `Start`
 
 **Rotas**
-
 - Criar as rotas
 - Criar o arquivo `index.jsx` dentro da pasta `Routes`
 - Criar o arquivo `AllPages.jsx` dentro da pasta `Routes`
 
 **Components**
-
 - Criar a pasta `Components` dentro da pasta `src`
 - Criar a pasta `Common` dentro da pasta `Components`
 - Criar a pasta `DefaultButton` dentro da pasta `Common`
@@ -155,7 +150,9 @@ Status
   No robô, nós temos primeiros Felicidade e depois saúde xx-xx
 ```
 
-
+**Pages**
+- Criar a pasta `AppExplanation` dentro da pasta `Pages`
+- Criar o arquivo `index.jsx` dentro da pasta `AppExplanation`
 
 
 
