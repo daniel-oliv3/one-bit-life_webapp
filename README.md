@@ -4,7 +4,7 @@
 
 ### Pré-Requisitos.
 
-React.js, React Native, Node.js, JavaScript, TypeScript.
+React.js, React Native, Node.js, JavaScript.
 
 **Node.js**
 - Site: https://nodejs.org/en/
@@ -153,8 +153,9 @@ Status
 **Pages**
 - Criar a pasta `AppExplanation` dentro da pasta `Pages`
 - Criar o arquivo `index.jsx` dentro da pasta `AppExplanation`
-
-
+- Criar a pasta `Explanation` dentro da pasta `Components`
+- Criar a pasta `ExplanationCard` dentro da pasta `Explanation`
+- Criar o arquivo `index.jsx` dentro da pasta `ExplanationCard`
 
 
 

@@ -6,7 +6,7 @@ import { View, Text, StyleSheet, ScrollView } from "react-native-gesture-handler
 export default function AppExplanation(){
 
     function handleSetShowHome(){
-        
+        console.log("Botão clicado!");     
     }
 
     return (
