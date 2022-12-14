@@ -1,6 +1,8 @@
 import React from "react";
-import { View, Text, StyleSheet, ScrollView } from "react-native-gesture-handler";
+import { View, Text, StyleSheet, ScrollView } from "react-native";
 
+import DefaultButton from "../../Components/Common/DefaultButton";
+import ExplanationCard from "../../Components/Explanation/ExplanationCard";
 
 /* ======= AppExplanation ======= */
 export default function AppExplanation(){

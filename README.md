@@ -22,6 +22,8 @@ React.js, React Native, Node.js, JavaScript.
 - Site: https://code.visualstudio.com/download
 - Extenção
     - `Material icon Theme`
+    - `Image preview`
+    - `Prettier - Code formatter`
 
 **Expo**
 - Site: https://expo.dev/
